@@ -1,4 +1,4 @@
-Hi 👋 My name is Yigit Nebioglu
+Hi 👋 My name is Yigit Nebioglu (pronounced as: Yi-it)
 ===============================
 
 Web Developer
