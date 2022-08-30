@@ -4,7 +4,7 @@ Hi 👋 My name is Yigit Nebioglu (pronounced as: Yi-it)
 Web Developer
 -------------
 
-I've been learning code for almost 5 years. I am planning to switch my career to Jr. Web Developer. (Front-End or Full-Stack)
+I've been learning code for almost 5 years. I am planning to switch my career to Junior Front-End Developer.
 
 * 🌍  I'm based in Canakkale/Turkey
 * ✉️  You can contact me at [yigit.nebioglu@hotmail.com](mailto:yigit.nebioglu@hotmail.com)
