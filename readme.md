@@ -11,7 +11,7 @@ I've been learning code since I've decided that I want to be an amazing develope
 * 🚀  I'm currently working on [as a Freelancer](http://www.github.com/yigitnebioglu)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on interesting projects and startups.
-* ⚡  Tell anyone but, I will be a great developer soon :)
+* ⚡  Tell everyone, I will be a great developer soon :)
 
 ### Skills
 
