@@ -1,7 +1,7 @@
 Hi 👋 My name is Yigit Nebioglu (pronounced as: Yi-it)
 ===============================
 
-Web Developer
+Junior Front-End Developer | React Developer
 -------------
 
 I've been learning code since I've decided that I want to be an amazing developer. I am planning to switch my career to Junior Front-End Developer.
