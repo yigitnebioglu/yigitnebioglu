@@ -7,11 +7,11 @@ Junior Front-End Developer | React Developer
 I've been learning code since I've decided that I want to be an amazing developer. I am planning to switch my career to Junior Front-End Developer.
 
 * 🌍  I'm based in Canakkale/Turkey
-* ✉️  You can contact me at [yigit.nebioglu@hotmail.com](mailto:yigit.nebioglu@hotmail.com)
+* ✉️  You can contact me at [yigit.nebioglu2@gmail.com](mailto:yigit.nebioglu2@gmail.com)
 * 🚀  I'm currently open for work [as a Freelancer](http://www.github.com/yigitnebioglu)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects and startups.
-* ⚡  Tell everyone, I will be a great developer soon :)
+* ⚡  Ready to rock in code! :)
 
 ### Skills
 
